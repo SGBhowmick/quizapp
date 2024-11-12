@@ -1,0 +1,1104 @@
+{
+    "questions": [
+        {
+            "questionNo": 1,
+            "questionText": "Which country hosted the 2022 FIFA World Cup?",
+            "answers": [
+                {
+                    "text": "Russia",
+                    "score": 0
+                },
+                {
+                    "text": "Qatar",
+                    "score": 1
+                },
+                {
+                    "text": "Brazil",
+                    "score": 0
+                },
+                {
+                    "text": "Germany",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 2,
+            "questionText": "Which leader became the longest-serving monarch in British history?",
+            "answers": [
+                {
+                    "text": "Queen Elizabeth II",
+                    "score": 1
+                },
+                {
+                    "text": "Prince Charles",
+                    "score": 0
+                },
+                {
+                    "text": "King Henry VIII",
+                    "score": 0
+                },
+                {
+                    "text": "Queen Victoria",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 3,
+            "questionText": "Which country was the first to legalize same-sex marriage?",
+            "answers": [
+                {
+                    "text": "Canada",
+                    "score": 0
+                },
+                {
+                    "text": "Netherlands",
+                    "score": 1
+                },
+                {
+                    "text": "Spain",
+                    "score": 0
+                },
+                {
+                    "text": "United States",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 4,
+            "questionText": "What is the capital of Canada?",
+            "answers": [
+                {
+                    "text": "Ottawa",
+                    "score": 1
+                },
+                {
+                    "text": "Toronto",
+                    "score": 0
+                },
+                {
+                    "text": "Vancouver",
+                    "score": 0
+                },
+                {
+                    "text": "Montreal",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 5,
+            "questionText": "What does the 'EU' in 'European Union' stand for?",
+            "answers": [
+                {
+                    "text": "Economic Unit",
+                    "score": 0
+                },
+                {
+                    "text": "European Unity",
+                    "score": 0
+                },
+                {
+                    "text": "European Union",
+                    "score": 1
+                },
+                {
+                    "text": "European United",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 6,
+            "questionText": "Which country was the first to reach the moon?",
+            "answers": [
+                {
+                    "text": "United States",
+                    "score": 1
+                },
+                {
+                    "text": "Soviet Union",
+                    "score": 0
+                },
+                {
+                    "text": "China",
+                    "score": 0
+                },
+                {
+                    "text": "India",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 7,
+            "questionText": "Which of these is the longest river in the world?",
+            "answers": [
+                {
+                    "text": "Amazon River",
+                    "score": 1
+                },
+                {
+                    "text": "Nile River",
+                    "score": 0
+                },
+                {
+                    "text": "Yangtze River",
+                    "score": 0
+                },
+                {
+                    "text": "Mississippi River",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 8,
+            "questionText": "What was the name of the first manned mission to land on the moon?",
+            "answers": [
+                {
+                    "text": "Apollo 11",
+                    "score": 1
+                },
+                {
+                    "text": "Apollo 13",
+                    "score": 0
+                },
+                {
+                    "text": "Gemini 8",
+                    "score": 0
+                },
+                {
+                    "text": "Voyager 1",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 9,
+            "questionText": "Which country is known as the Land of the Rising Sun?",
+            "answers": [
+                {
+                    "text": "China",
+                    "score": 0
+                },
+                {
+                    "text": "South Korea",
+                    "score": 0
+                },
+                {
+                    "text": "Japan",
+                    "score": 1
+                },
+                {
+                    "text": "Thailand",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 10,
+            "questionText": "Which continent is known as the Dark Continent?",
+            "answers": [
+                {
+                    "text": "Asia",
+                    "score": 0
+                },
+                {
+                    "text": "Africa",
+                    "score": 1
+                },
+                {
+                    "text": "South America",
+                    "score": 0
+                },
+                {
+                    "text": "Australia",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 11,
+            "questionText": "In which country did the 2011 Fukushima nuclear disaster occur?",
+            "answers": [
+                {
+                    "text": "Japan",
+                    "score": 1
+                },
+                {
+                    "text": "South Korea",
+                    "score": 0
+                },
+                {
+                    "text": "China",
+                    "score": 0
+                },
+                {
+                    "text": "India",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 12,
+            "questionText": "Who was the first female Prime Minister of the United Kingdom?",
+            "answers": [
+                {
+                    "text": "Margaret Thatcher",
+                    "score": 1
+                },
+                {
+                    "text": "Theresa May",
+                    "score": 0
+                },
+                {
+                    "text": "Angela Merkel",
+                    "score": 0
+                },
+                {
+                    "text": "Nicola Sturgeon",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 13,
+            "questionText": "Which island nation is known for its distinct culture of tea ceremonies?",
+            "answers": [
+                {
+                    "text": "Japan",
+                    "score": 1
+                },
+                {
+                    "text": "India",
+                    "score": 0
+                },
+                {
+                    "text": "China",
+                    "score": 0
+                },
+                {
+                    "text": "Sri Lanka",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 14,
+            "questionText": "Which ocean is the largest by surface area?",
+            "answers": [
+                {
+                    "text": "Atlantic Ocean",
+                    "score": 0
+                },
+                {
+                    "text": "Pacific Ocean",
+                    "score": 1
+                },
+                {
+                    "text": "Indian Ocean",
+                    "score": 0
+                },
+                {
+                    "text": "Arctic Ocean",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 15,
+            "questionText": "Which U.S. state is known as the 'Sunshine State'?",
+            "answers": [
+                {
+                    "text": "California",
+                    "score": 0
+                },
+                {
+                    "text": "Florida",
+                    "score": 1
+                },
+                {
+                    "text": "Texas",
+                    "score": 0
+                },
+                {
+                    "text": "Hawaii",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 16,
+            "questionText": "In which country would you find the ancient ruins of Machu Picchu?",
+            "answers": [
+                {
+                    "text": "Peru",
+                    "score": 1
+                },
+                {
+                    "text": "Mexico",
+                    "score": 0
+                },
+                {
+                    "text": "Chile",
+                    "score": 0
+                },
+                {
+                    "text": "Colombia",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 17,
+            "questionText": "Which city is the capital of Australia?",
+            "answers": [
+                {
+                    "text": "Sydney",
+                    "score": 0
+                },
+                {
+                    "text": "Melbourne",
+                    "score": 0
+                },
+                {
+                    "text": "Canberra",
+                    "score": 1
+                },
+                {
+                    "text": "Perth",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 18,
+            "questionText": "Which disease is caused by a deficiency in vitamin C?",
+            "answers": [
+                {
+                    "text": "Scurvy",
+                    "score": 1
+                },
+                {
+                    "text": "Rickets",
+                    "score": 0
+                },
+                {
+                    "text": "Beriberi",
+                    "score": 0
+                },
+                {
+                    "text": "Pellagra",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 19,
+            "questionText": "What is the tallest mountain in North America?",
+            "answers": [
+                {
+                    "text": "Mount Denali",
+                    "score": 1
+                },
+                {
+                    "text": "Mount St. Helens",
+                    "score": 0
+                },
+                {
+                    "text": "Mount Rainier",
+                    "score": 0
+                },
+                {
+                    "text": "Mount Whitney",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 20,
+            "questionText": "Which element is used in the making of glass?",
+            "answers": [
+                {
+                    "text": "Silicon",
+                    "score": 1
+                },
+                {
+                    "text": "Aluminum",
+                    "score": 0
+                },
+                {
+                    "text": "Iron",
+                    "score": 0
+                },
+                {
+                    "text": "Lead",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 21,
+            "questionText": "What is the longest river in South America?",
+            "answers": [
+                {
+                    "text": "Amazon River",
+                    "score": 1
+                },
+                {
+                    "text": "Parana River",
+                    "score": 0
+                },
+                {
+                    "text": "Orinoco River",
+                    "score": 0
+                },
+                {
+                    "text": "Magdalena River",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 22,
+            "questionText": "Which country is the world's largest producer of oil?",
+            "answers": [
+                {
+                    "text": "United States",
+                    "score": 1
+                },
+                {
+                    "text": "Saudi Arabia",
+                    "score": 0
+                },
+                {
+                    "text": "Russia",
+                    "score": 0
+                },
+                {
+                    "text": "China",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 23,
+            "questionText": "Which country was formerly known as Ceylon?",
+            "answers": [
+                {
+                    "text": "Sri Lanka",
+                    "score": 1
+                },
+                {
+                    "text": "Nepal",
+                    "score": 0
+                },
+                {
+                    "text": "Bangladesh",
+                    "score": 0
+                },
+                {
+                    "text": "Pakistan",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 24,
+            "questionText": "What is the smallest planet in the solar system?",
+            "answers": [
+                {
+                    "text": "Mercury",
+                    "score": 1
+                },
+                {
+                    "text": "Mars",
+                    "score": 0
+                },
+                {
+                    "text": "Venus",
+                    "score": 0
+                },
+                {
+                    "text": "Pluto",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 25,
+            "questionText": "Who painted the famous artwork 'The Starry Night'?",
+            "answers": [
+                {
+                    "text": "Vincent van Gogh",
+                    "score": 1
+                },
+                {
+                    "text": "Pablo Picasso",
+                    "score": 0
+                },
+                {
+                    "text": "Claude Monet",
+                    "score": 0
+                },
+                {
+                    "text": "Leonardo da Vinci",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 26,
+            "questionText": "Which animal is known for its black and white stripes?",
+            "answers": [
+                {
+                    "text": "Zebra",
+                    "score": 1
+                },
+                {
+                    "text": "Tiger",
+                    "score": 0
+                },
+                {
+                    "text": "Penguin",
+                    "score": 0
+                },
+                {
+                    "text": "Panda",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 27,
+            "questionText": "What is the chemical symbol for gold?",
+            "answers": [
+                {
+                    "text": "Au",
+                    "score": 1
+                },
+                {
+                    "text": "Ag",
+                    "score": 0
+                },
+                {
+                    "text": "Pb",
+                    "score": 0
+                },
+                {
+                    "text": "Fe",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 28,
+            "questionText": "Which city is known as the 'Big Apple'?",
+            "answers": [
+                {
+                    "text": "New York City",
+                    "score": 1
+                },
+                {
+                    "text": "Los Angeles",
+                    "score": 0
+                },
+                {
+                    "text": "Chicago",
+                    "score": 0
+                },
+                {
+                    "text": "Miami",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 29,
+            "questionText": "Which of these is a renewable source of energy?",
+            "answers": [
+                {
+                    "text": "Solar power",
+                    "score": 1
+                },
+                {
+                    "text": "Natural gas",
+                    "score": 0
+                },
+                {
+                    "text": "Coal",
+                    "score": 0
+                },
+                {
+                    "text": "Nuclear energy",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 30,
+            "questionText": "What is the most populous country in the world?",
+            "answers": [
+                {
+                    "text": "China",
+                    "score": 1
+                },
+                {
+                    "text": "India",
+                    "score": 0
+                },
+                {
+                    "text": "United States",
+                    "score": 0
+                },
+                {
+                    "text": "Indonesia",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 31,
+            "questionText": "Which sea is the largest in the world by surface area?",
+            "answers": [
+                {
+                    "text": "Pacific Ocean",
+                    "score": 0
+                },
+                {
+                    "text": "South China Sea",
+                    "score": 1
+                },
+                {
+                    "text": "Mediterranean Sea",
+                    "score": 0
+                },
+                {
+                    "text": "Caribbean Sea",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 32,
+            "questionText": "Which country is known for the Great Wall?",
+            "answers": [
+                {
+                    "text": "China",
+                    "score": 1
+                },
+                {
+                    "text": "India",
+                    "score": 0
+                },
+                {
+                    "text": "Japan",
+                    "score": 0
+                },
+                {
+                    "text": "Korea",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 33,
+            "questionText": "What is the capital of France?",
+            "answers": [
+                {
+                    "text": "Berlin",
+                    "score": 0
+                },
+                {
+                    "text": "Madrid",
+                    "score": 0
+                },
+                {
+                    "text": "Paris",
+                    "score": 1
+                },
+                {
+                    "text": "Rome",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 34,
+            "questionText": "Which of these is the primary ingredient in guacamole?",
+            "answers": [
+                {
+                    "text": "Tomato",
+                    "score": 0
+                },
+                {
+                    "text": "Avocado",
+                    "score": 1
+                },
+                {
+                    "text": "Onion",
+                    "score": 0
+                },
+                {
+                    "text": "Lemon",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 35,
+            "questionText": "Which of these countries is an island nation?",
+            "answers": [
+                {
+                    "text": "Thailand",
+                    "score": 0
+                },
+                {
+                    "text": "Japan",
+                    "score": 1
+                },
+                {
+                    "text": "China",
+                    "score": 0
+                },
+                {
+                    "text": "South Korea",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 36,
+            "questionText": "What is the smallest country in the world?",
+            "answers": [
+                {
+                    "text": "Vatican City",
+                    "score": 1
+                },
+                {
+                    "text": "Monaco",
+                    "score": 0
+                },
+                {
+                    "text": "Nauru",
+                    "score": 0
+                },
+                {
+                    "text": "San Marino",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 37,
+            "questionText": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+            "answers": [
+                {
+                    "text": "Carbon dioxide",
+                    "score": 1
+                },
+                {
+                    "text": "Oxygen",
+                    "score": 0
+                },
+                {
+                    "text": "Nitrogen",
+                    "score": 0
+                },
+                {
+                    "text": "Methane",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 38,
+            "questionText": "Which is the fastest land animal?",
+            "answers": [
+                {
+                    "text": "Cheetah",
+                    "score": 1
+                },
+                {
+                    "text": "Lion",
+                    "score": 0
+                },
+                {
+                    "text": "Horse",
+                    "score": 0
+                },
+                {
+                    "text": "Elephant",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 39,
+            "questionText": "Which planet is known as the Red Planet?",
+            "answers": [
+                {
+                    "text": "Mars",
+                    "score": 1
+                },
+                {
+                    "text": "Jupiter",
+                    "score": 0
+                },
+                {
+                    "text": "Saturn",
+                    "score": 0
+                },
+                {
+                    "text": "Venus",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 40,
+            "questionText": "Which country is known as the 'Land of the Midnight Sun'?",
+            "answers": [
+                {
+                    "text": "Norway",
+                    "score": 1
+                },
+                {
+                    "text": "Iceland",
+                    "score": 0
+                },
+                {
+                    "text": "Canada",
+                    "score": 0
+                },
+                {
+                    "text": "Sweden",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 41,
+            "questionText": "Which ocean lies between Africa and Australia?",
+            "answers": [
+                {
+                    "text": "Indian Ocean",
+                    "score": 1
+                },
+                {
+                    "text": "Pacific Ocean",
+                    "score": 0
+                },
+                {
+                    "text": "Atlantic Ocean",
+                    "score": 0
+                },
+                {
+                    "text": "Southern Ocean",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 42,
+            "questionText": "What type of tree produces acorns?",
+            "answers": [
+                {
+                    "text": "Oak",
+                    "score": 1
+                },
+                {
+                    "text": "Pine",
+                    "score": 0
+                },
+                {
+                    "text": "Maple",
+                    "score": 0
+                },
+                {
+                    "text": "Birch",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 43,
+            "questionText": "Which continent has the most countries?",
+            "answers": [
+                {
+                    "text": "Africa",
+                    "score": 1
+                },
+                {
+                    "text": "Asia",
+                    "score": 0
+                },
+                {
+                    "text": "Europe",
+                    "score": 0
+                },
+                {
+                    "text": "South America",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 44,
+            "questionText": "What is the most common blood type in humans?",
+            "answers": [
+                {
+                    "text": "O",
+                    "score": 1
+                },
+                {
+                    "text": "A",
+                    "score": 0
+                },
+                {
+                    "text": "B",
+                    "score": 0
+                },
+                {
+                    "text": "AB",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 45,
+            "questionText": "Which famous scientist developed the theory of general relativity?",
+            "answers": [
+                {
+                    "text": "Albert Einstein",
+                    "score": 1
+                },
+                {
+                    "text": "Isaac Newton",
+                    "score": 0
+                },
+                {
+                    "text": "Galileo Galilei",
+                    "score": 0
+                },
+                {
+                    "text": "Niels Bohr",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 46,
+            "questionText": "Which country is known as the Land of the Pharaohs?",
+            "answers": [
+                {
+                    "text": "Egypt",
+                    "score": 1
+                },
+                {
+                    "text": "Greece",
+                    "score": 0
+                },
+                {
+                    "text": "Italy",
+                    "score": 0
+                },
+                {
+                    "text": "Turkey",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 47,
+            "questionText": "What type of animal is the Komodo Dragon?",
+            "answers": [
+                {
+                    "text": "Lizard",
+                    "score": 1
+                },
+                {
+                    "text": "Snake",
+                    "score": 0
+                },
+                {
+                    "text": "Crocodile",
+                    "score": 0
+                },
+                {
+                    "text": "Turtle",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 48,
+            "questionText": "What is the name of the longest mountain range in the world?",
+            "answers": [
+                {
+                    "text": "Andes",
+                    "score": 0
+                },
+                {
+                    "text": "Rockies",
+                    "score": 0
+                },
+                {
+                    "text": "Himalayas",
+                    "score": 0
+                },
+                {
+                    "text": "Mid-Atlantic Ridge",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "questionNo": 49,
+            "questionText": "Which ocean is the smallest?",
+            "answers": [
+                {
+                    "text": "Arctic Ocean",
+                    "score": 1
+                },
+                {
+                    "text": "Indian Ocean",
+                    "score": 0
+                },
+                {
+                    "text": "Pacific Ocean",
+                    "score": 0
+                },
+                {
+                    "text": "Atlantic Ocean",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "questionNo": 50,
+            "questionText": "Which of these countries has a flag with a red circle in the center?",
+            "answers": [
+                {
+                    "text": "Japan",
+                    "score": 1
+                },
+                {
+                    "text": "South Korea",
+                    "score": 0
+                },
+                {
+                    "text": "China",
+                    "score": 0
+                },
+                {
+                    "text": "India",
+                    "score": 0
+                }
+            ]
+        }
+    ]
+}
